@@ -4,7 +4,7 @@ A dark-fantasy pixel RPG where the story keeps writing itself as you walk.
 
 ![Ashfall](docs/feature-graphic.png)
 
-**▶ Play it in your browser:** https://newnyansan.github.io/ashfall/
+**▶ Play it in your browser:** https://newnyansan.github.io/Ashfall/
 
 On a phone, open the link and choose **Add to Home screen** / **Install app**: it then runs full-screen and offline like a normal app.
 
